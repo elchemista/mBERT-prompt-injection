@@ -5,6 +5,11 @@ build/
 dist/
 wheels/
 *.egg-info
+*.safetensors
+*.json
 
 # Virtual environments
 .venv
+
+# ONNX model artifacts
+*.onnx
